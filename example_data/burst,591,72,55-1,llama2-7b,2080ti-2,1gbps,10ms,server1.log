@@ -1,0 +1,109 @@
+request 5d110b64f1b44c9aa91300ecdd2fc391 is added at 1761103625.720268
+request 5d110b64f1b44c9aa91300ecdd2fc391 is scheduled to run at 1761103625.7314
+0 1 compute starts (prefill) at 1761103625.7318065
+request 5d110b64f1b44c9aa91300ecdd2fc391 starts to compute (prefill) on worker at 1761103625.7318146
+request 5d110b64f1b44c9aa91300ecdd2fc391 finishes computing (prefill) on worker at 1761103625.8904614
+0 1 compute ends (prefill) at 1761103625.8904817
+0 trans starts at 1761103625.9849043
+0 trans ends at 1761103626.2786086
+request 5d110b64f1b44c9aa91300ecdd2fc391 returns to head server at 1761103626.448055
+0 back to head at 1761103626.448074
+request 5d110b64f1b44c9aa91300ecdd2fc391 finished an iteration at 1761103626.44823
+request 5d110b64f1b44c9aa91300ecdd2fc391 got its first token at 1761103626.44823
+request cebcb91160c74bd1a418936f17038b82 is added at 1761103626.4511375
+request 2d99c55fc50d47c49dc249dbe5f4bab3 is added at 1761103626.4632745
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 is added at 1761103626.467075
+request 84f14047407e4751a60da1246d85f1e1 is added at 1761103626.470248
+request fef1152d680b420ba1ecc4ab7b77610a is added at 1761103626.4726985
+request dde13fc532fc4feaaf006b5da4bfb270 is added at 1761103626.4752076
+request a02e222fd14448d78351edb6b2f102ba is added at 1761103626.4777234
+request b00822af18794d5caa9dd79a2b66b82c is added at 1761103626.4801912
+request 3f68aba72e454fcfa446ebc43eba52c8 is added at 1761103626.4821415
+request ed571f060a2a4a4c90fbfde1a5637dcf is added at 1761103626.4840646
+request 6221d2cf8fce480094714ffa2f53b9fa is added at 1761103626.485996
+request d55402c61d3a4c82ae3a6917364d2a44 is added at 1761103626.487932
+request d9e05280a6a44524b6b26b1c6e238550 is added at 1761103626.489869
+request 6e689555c87844b9adc4ef7f33516d43 is added at 1761103626.4917986
+request 129663d73acf4176a11f77c0dd0164e6 is added at 1761103626.493722
+request ae0ca39acaac4dcaafc8ea34ce9c4184 is added at 1761103626.4956431
+request c6d9b8feadd54332b76881a6b816adfb is added at 1761103626.4975529
+request dca82e1c1dbc42c589072dab02688cf8 is added at 1761103626.4994683
+request 48c5d910531949feadcbb888454ce29d is added at 1761103626.5014145
+request 877a0ad7eb2148a4ac09e9f13c20c8b6 is added at 1761103626.50333
+request b735b7fd4ab64474abf688a41b5a0678 is added at 1761103626.5052497
+request 2783a076de5a4e729636bd910c58184a is added at 1761103626.5071645
+request d391019fb49b40aaaeff056725cb0b91 is added at 1761103626.5090592
+request 909f3d0cd2b146f69b7615a0089d186c is added at 1761103626.5109665
+request 26009bb7cc224eee883834a865ce7375 is added at 1761103626.5128798
+request 7b30de5ba41742ceac4454c637d4eabf is added at 1761103626.5147886
+request a54bbc8d0a50427a82999f9d0e53eb93 is added at 1761103626.5166852
+request 1982a556420f47cebbaa41e2db5ee0e8 is added at 1761103626.5185905
+request 8ecb5152671e41388181596c67dc5a6e is added at 1761103626.520549
+request 947e56e1e5d343f5896d8ce23cef6ba5 is added at 1761103626.5224488
+request 2d9b3d5e3c8d4be692c2b81c3ffd69fc is added at 1761103626.5243592
+request 4e33dc59e870407ca7b9bc6b0f700801 is added at 1761103626.5262694
+request aa779720a6b64d22ba7f8b2a15813003 is added at 1761103626.5281708
+request 895e36c3d56f4800a1e8ad55919e4b8d is added at 1761103626.5300765
+request a5dc6eae10a84e2d8ea4dc65b1deb77b is added at 1761103626.534499
+request e737cc3771574d28ba0286a6588ddafd is added at 1761103626.536433
+request 0d42d10329c04fd2824c438156fb2525 is added at 1761103626.538335
+request 48d5427403874f958867c2a3f8a5adfc is added at 1761103626.540299
+request d712f4e93b604b11b58e3b76fd195f50 is added at 1761103626.5422084
+request 3c0e19552a144698934a2754629fe016 is added at 1761103626.5441506
+request cebcb91160c74bd1a418936f17038b82 is scheduled to run at 1761103626.5468776
+request 2d99c55fc50d47c49dc249dbe5f4bab3 is scheduled to run at 1761103626.5468776
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 is scheduled to run at 1761103626.5468776
+0 3 compute starts (prefill) at 1761103626.5470343
+request cebcb91160c74bd1a418936f17038b82 starts to compute (prefill) on worker at 1761103626.5470376
+request 2d99c55fc50d47c49dc249dbe5f4bab3 starts to compute (prefill) on worker at 1761103626.5470376
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 starts to compute (prefill) on worker at 1761103626.5470376
+request cebcb91160c74bd1a418936f17038b82 finishes computing (prefill) on worker at 1761103626.8767214
+request 2d99c55fc50d47c49dc249dbe5f4bab3 finishes computing (prefill) on worker at 1761103626.8767214
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 finishes computing (prefill) on worker at 1761103626.8767214
+0 3 compute ends (prefill) at 1761103626.8767447
+0 trans starts at 1761103627.0779896
+0 trans ends at 1761103627.5583458
+request cebcb91160c74bd1a418936f17038b82 returns to head server at 1761103627.9183145
+request 2d99c55fc50d47c49dc249dbe5f4bab3 returns to head server at 1761103627.9183145
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 returns to head server at 1761103627.9183145
+0 back to head at 1761103627.9183452
+request cebcb91160c74bd1a418936f17038b82 finished an iteration at 1761103627.9185328
+request cebcb91160c74bd1a418936f17038b82 got its first token at 1761103627.9185328
+request 2d99c55fc50d47c49dc249dbe5f4bab3 finished an iteration at 1761103627.9185328
+request 2d99c55fc50d47c49dc249dbe5f4bab3 got its first token at 1761103627.9185328
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 finished an iteration at 1761103627.9185328
+request f85cfcebdfe84ef3af5fc8d7f78ffab2 got its first token at 1761103627.9185328
+request 0433fc33c5d446f783f8b41246f9928a is added at 1761103627.9205315
+request 0b73d4b153594382964b0e61b1c9e727 is added at 1761103627.9266882
+request 302ce821f3fb4898b60fe2696089a288 is added at 1761103627.9316726
+request db73e86bda824236a0710894f1ad90d8 is added at 1761103627.9353445
+request 23b9ab36e6a84e0484404263fec4a8de is added at 1761103627.940087
+request 814c3aaf1e354a82b1172978ff8a6a62 is added at 1761103627.9428518
+request 1f4045d9a6b349e19f0534bd4c263a20 is added at 1761103627.9452105
+request 8b81d2f6182746cb9a17aa7e87641016 is added at 1761103627.9475756
+request b2687c56a3044d6fb567473342553b7b is added at 1761103627.9499128
+request 6285bfa8861344d8b07bdeac4c110f72 is added at 1761103627.9518902
+request cdca16ccdfd54075bf4f826ac1bc63c1 is added at 1761103627.9538112
+request 3412877943eb4a10995255f544439d08 is added at 1761103627.955728
+request 5cf770ef04924d6183295b97bc23dd52 is added at 1761103627.9576488
+request d8f48ccdcf604988838fef18cff71b91 is added at 1761103627.9595559
+request 84f14047407e4751a60da1246d85f1e1 is scheduled to run at 1761103627.9623952
+request fef1152d680b420ba1ecc4ab7b77610a is scheduled to run at 1761103627.9623952
+request dde13fc532fc4feaaf006b5da4bfb270 is scheduled to run at 1761103627.9623952
+request a02e222fd14448d78351edb6b2f102ba is scheduled to run at 1761103627.964508
+request b00822af18794d5caa9dd79a2b66b82c is scheduled to run at 1761103627.964508
+request 3f68aba72e454fcfa446ebc43eba52c8 is scheduled to run at 1761103627.964508
+request ed571f060a2a4a4c90fbfde1a5637dcf is scheduled to run at 1761103627.9653676
+request 6221d2cf8fce480094714ffa2f53b9fa is scheduled to run at 1761103627.9653676
+request d55402c61d3a4c82ae3a6917364d2a44 is scheduled to run at 1761103627.9653676
+request d9e05280a6a44524b6b26b1c6e238550 is scheduled to run at 1761103627.966101
+request 6e689555c87844b9adc4ef7f33516d43 is scheduled to run at 1761103627.966101
+request 129663d73acf4176a11f77c0dd0164e6 is scheduled to run at 1761103627.966101
+0 3 compute starts (prefill) at 1761103627.9662466
+request 84f14047407e4751a60da1246d85f1e1 starts to compute (prefill) on worker at 1761103627.9662502
+request fef1152d680b420ba1ecc4ab7b77610a starts to compute (prefill) on worker at 1761103627.9662502
+request dde13fc532fc4feaaf006b5da4bfb270 starts to compute (prefill) on worker at 1761103627.9662502
+request 84f14047407e4751a60da1246d85f1e1 finishes computing (prefill) on worker at 1761103628.2254753
+request fef1152d680b420ba1ecc4ab7b77610a finishes computing (prefill) on worker at 1761103628.2254753
+request dde13fc532fc4feaaf006b5da4bfb270 finishes computing (prefill) on worker at 1761103628.2254753
+0 3 compute ends (prefill) at 1761103628.2254992
